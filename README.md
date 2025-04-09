@@ -16,7 +16,7 @@ Find and replace all on all files (CMD+SHIFT+F):
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
 
-A Nuxt module for using the ai package for doing amazing things.
+A Nuxt module for using the [vercel/ai](https://github.com/vercel/ai) package, heavily inspired by [vercel/react](https://github.com/vercel/ai/tree/main/packages/react)
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
 <!-- - [🏀 Online playground](https://stackblitz.com/github/hareland/nuxt-ai?file=playground%2Fapp.vue) -->
@@ -84,3 +84,6 @@ That's it! You can now use Nuxt AI Module in your Nuxt app ✨
 
 [nuxt-src]: https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js
 [nuxt-href]: https://nuxt.com
+
+# Notices
+This project or maintainer is not in any way affiliated with, or endorsed by Vercel &copy;&reg; in any way.
