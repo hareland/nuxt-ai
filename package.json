@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-ai",
+  "name": "nuxt-ai-module",
   "version": "0.0.2",
   "description": "A Nuxt module for using the ai package",
   "repository": "https://github.com/hareland/nuxt-ai",
