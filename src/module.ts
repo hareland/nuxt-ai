@@ -17,5 +17,9 @@ export default defineNuxtModule<ModuleOptions>({
 
     // Do not add the extension since the `.ts` will be transpiled to `.mjs` after `npm run prepack`
     addPlugin(resolver.resolve('./runtime/plugin'))
+
+    // // MAke sure we add the ai-utils pkg to externals
+    //
+    // _nuxt.options.nitro.externals?.external?.push('')
   },
 })

@@ -15,6 +15,9 @@ export default createConfigForNuxt({
     ],
   },
 })
-  .append(
-    // your custom flat config here...
-  )
+// .override('module.ts', {
+//   rules: {
+//     // ...Override rules, for example:
+//     '@typescript-eslint/no-implicit-any': 'off'
+//   }
+// })
