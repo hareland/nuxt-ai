@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.3
+
+[compare changes](https://github.com/hareland/nuxt-ai/compare/v0.0.2...v0.0.3)
+
+### 🏡 Chore
+
+- Prepare module ([34de730](https://github.com/hareland/nuxt-ai/commit/34de730))
+
+### ❤️ Contributors
+
+- Hareland <packagist@proton.me>
+
 ## v0.0.2
 
 [compare changes](https://github.com/hareland/nuxt-ai/compare/v0.0.1...v0.0.2)
