@@ -1,6 +1,20 @@
 # Changelog
 
 
+## v0.0.4
+
+[compare changes](https://github.com/hareland/nuxt-ai/compare/v0.0.3...v0.0.4)
+
+### 🏡 Chore
+
+- Prepare module ([490e9fa](https://github.com/hareland/nuxt-ai/commit/490e9fa))
+- Prepare use-chat composable ([0582713](https://github.com/hareland/nuxt-ai/commit/0582713))
+- Prepare module ([bab5490](https://github.com/hareland/nuxt-ai/commit/bab5490))
+
+### ❤️ Contributors
+
+- Hareland <packagist@proton.me>
+
 ## v0.0.3
 
 [compare changes](https://github.com/hareland/nuxt-ai/compare/v0.0.2...v0.0.3)

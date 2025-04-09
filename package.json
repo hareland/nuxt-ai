@@ -1,6 +1,6 @@
 {
   "name": "nuxt-ai-module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A Nuxt module for using the ai package",
   "repository": "https://github.com/hareland/nuxt-ai",
   "license": "MIT",
